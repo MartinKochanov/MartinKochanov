@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Kochanov</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Back-End developer with a great interest in Front-End as well!</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
