@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning at Software University Sofia, Bulgaria
 - 🔭 I’m currently working on a project of mine with wich i want to improve my skills and learn new things. 
 - ⚡ Fun fact: I love football,snowboarding , painting, and sometimes gaming.😄
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martin-kochanov-57b8a9299/), [FaceBook](https://www.facebook.com/martin.kochanov) , [Instagram](https://www.instagram.com/martin_kochanov/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martin-kochanov-57b8a9299/), [Facebook](https://www.facebook.com/martin.kochanov) , [Instagram](https://www.instagram.com/martin_kochanov/)
 
 <!--
 **MartinKochanov/MartinKochanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
