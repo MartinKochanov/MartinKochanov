@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Kochanov</h1>
-<h3 align="center">A passionate Back-End developer with a great interest in Front-End as well!</h3>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">A passionate Software Engineer!</h3>
 
 - 🔭 I’m currently working on **on a project of mine with wich i want to improve my skills and learn new things.**
 
